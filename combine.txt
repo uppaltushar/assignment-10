@@ -1,0 +1,19 @@
+1.Hello World
+50
+2.Hello World
+99
+3.Hello World
+81
+4.Hello World
+53
+5.Hello World
+21
+6.Hello World
+32
+7.Hello World
+16
+8.Hello World
+16
+9.Hello World
+49
+10.Hello World26
